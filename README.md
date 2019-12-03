@@ -3,5 +3,6 @@ this is a test repo for web27
 
 This is a test!
 
-NameL Michael Walter
+Name: Michael Walter
+
 Location: California
